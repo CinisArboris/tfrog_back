@@ -1,0 +1,8 @@
+{
+  "name": "tfrog_back",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "hanami-assets": "^2.1.0"
+  }
+}
